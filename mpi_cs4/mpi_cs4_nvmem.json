@@ -1,0 +1,16 @@
+{
+    "settings": {
+        "MANUFACTURER_ID": 90,
+        "MODULE_ID": 100,
+        "MODULE_NAME": "MPI_CS4",
+        "VERSION": "0.5.1",
+        "NODE_NUMBER": 256,
+        "CAN_ID": 15
+    },
+    "node_vars": {
+        "NV1": 15,
+        "NV2": 252,
+        "NV3": 123,
+        "NV4": 33
+    }
+}
